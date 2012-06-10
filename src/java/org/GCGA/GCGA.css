@@ -1,0 +1,76 @@
+body {
+	background:'black';
+}
+
+.labelEmpty{
+	color:#FFFFFF;
+	background:#FFFFFF;
+	text-align:center;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	border:1px solid;
+	border-color: #000000;
+}
+
+.labelNode{
+	text-align:center;
+	color:#000000;
+	background:#FA8585;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	font-weight: bold;
+	border:2px solid;
+	border-color: #000000;
+}
+
+.graphPanel{
+    background:#DDDDDD;
+}
+
+.labelText{
+    width: 200px;
+    text-align: right;
+}
+
+.listText{
+    color: black;
+    font-family: arial, verdana, serif;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.newsDate{
+    color: red;
+    font-family: arial, verdana, serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.newsTime{
+    color: red;
+    font-family: arial, verdana, serif;
+    font-size: 12px;
+}
+
+.newsBody{
+    color: black;
+    font-family: arial, verdana, serif;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.labelTitle{
+	text-align:center;
+	color:#AAAAAA;
+	background:#333333;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	font-weight: bold;
+	border:2px solid;
+	border-color: #AAAAAA;
+}
+
+.listBackground{
+    background:#BBBBBB;
+}

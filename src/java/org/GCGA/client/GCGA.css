@@ -1,0 +1,81 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+/*
+.pc-template-btn {
+  display: block;
+  font-size: 16pt
+}
+
+#pc-template-img {
+  margin-top: 20px;
+}
+*/
+
+body {
+	background:'black';
+}
+.labelNode{
+	text-align:center;
+	v-align:center;
+	color:#000000;
+	background:#FA8585;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	font-weight: bold;
+	border:2px solid;
+	border-color: #000000;
+	margin:1px;
+	padding-left:3px;
+}
+
+.labelEmpty{
+	text-align:center;
+	v-align:center;
+	color:#FFFFFF;
+	background:FFFFFF;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	font-weight: bold;
+    	border:1px solid;
+	border-color: #444444;
+	margin:1px;
+	padding-left:3px;
+}
+
+.labelPartiteOff{
+	text-align:left;
+	v-align:center;
+	color:#999999;
+	background:#AAAAAA;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	font-weight: bold;
+	border:1px solid;
+	border-color: #999999;
+	margin:1px;
+	padding-left:3px;
+}
+.labelDateHeader{
+	text-align:center;
+	v-align:center;
+	color:#000000;
+	background:#FFFFFF;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	font-weight: bolder;
+	border:1px solid;
+	border-color: #000000;
+}
+.labelPartiteHeader{
+	text-align:center;
+	v-align:center;
+	color:#000000;
+	background:#FFFFFF;
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	font-weight: bolder;
+	border:1px solid;
+	border-color: #0000009;
+}
